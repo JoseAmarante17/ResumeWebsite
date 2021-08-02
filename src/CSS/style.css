@@ -17,6 +17,16 @@
 
 }
 
+body {
+  font-family       : acumin-pro, system-ui, sans-serif;
+  margin            : 0;
+  display           : grid;
+  grid-template-rows: auto 1fr auto;
+  background-color  : #f4f4f4;
+  align-items       : start;
+  min-height        : 100vh;
+}
+
 /*
     NAV START
 */
@@ -115,11 +125,11 @@ ul li a:active {
 }
 
 .leftAboutMe h2 {
-  font-size: 2.5em;
+  font-size: 2.75em;
 }
 
 .leftAboutMe h5 {
-  font-size : 1em;
+  font-size : 1.5em;
   margin-top: 7%;
   color     : #838282;
 }
@@ -205,7 +215,7 @@ select::-ms-value {
 form input[type="button"] {
   width           : 16%;
   text-align      : center;
-  font-size       : 1.50em;
+  font-size       : 1.65em;
   margin-right    : 3%;
   padding         : 1%;
   border-radius   : 100px;
@@ -244,6 +254,10 @@ form input[type="button"]:hover {
   width     : 35%;
 }
 
+.card p {
+  font-size: 1.5em;
+}
+
 .card img {
   width: 100%;
 }
@@ -260,16 +274,6 @@ form input[type="button"]:hover {
 /*
     FOOTER
 */
-body {
-  font-family       : acumin-pro, system-ui, sans-serif;
-  margin            : 0;
-  display           : grid;
-  grid-template-rows: auto 1fr auto;
-  font-size         : 14px;
-  background-color  : #f4f4f4;
-  align-items       : start;
-  min-height        : 100vh;
-}
 
 .footer {
   display         : flex;
@@ -278,6 +282,7 @@ body {
   color           : #2f2f2f;
   background-color: #fff;
   border-top      : 1px solid #e5e5e5;
+  font-size: 1.25em;
 }
 
 .footer>* {
