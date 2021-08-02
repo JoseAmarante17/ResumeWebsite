@@ -8,7 +8,7 @@ function Header() {
 
                 <li className="leftLI"><a href="#"><img src={logoPic} alt="Jose Amarnate" title="Jose Amarante" /></a>Amarante </li>
                 <li className="rightLI down"><a href="FILES\Resume.pdf" download>Resume</a></li>
-                <li className="down"><a href="#">Contact</a></li>
+                <li className="down"><a href="mailto:jose.m.amarante12@gmail.com">Contact</a></li>
             </ul>
         </nav>
     )

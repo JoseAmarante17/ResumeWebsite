@@ -202,7 +202,7 @@ select::-ms-value {
 }
 
 
-form input[type="submit"] {
+form input[type="button"] {
   width           : 16%;
   text-align      : center;
   font-size       : 1.50em;
@@ -214,7 +214,7 @@ form input[type="submit"] {
 }
 
 
-form input[type="submit"]:hover {
+form input[type="button"]:hover {
   background-color: #62b8e0;
   color           : white;
   font-weight     : bold;
@@ -516,7 +516,7 @@ body {
   }
 
 
-  form input[type="submit"] {
+  form input[type="button"] {
     width       : 23%;
     text-align  : center;
     font-size   : 18pt;
