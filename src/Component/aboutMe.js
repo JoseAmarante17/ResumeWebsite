@@ -12,14 +12,14 @@ function AboutMe() {
             </section>
 
             <section className="rightAboutMe">
-                <h2>Languages</h2>
+                <h2> <strong>Languages</strong></h2>
                 <ul>
                     <li>JavaScript</li>
                     <li>Python</li>
                     <li>Java</li>
                     <li>C#</li>
                 </ul>
-                <h2 className="rightAboutMeSecondHeading">Frameworks</h2>
+                <h2 className="rightAboutMeSecondHeading"><strong>Frameworks</strong></h2>
                 <ul>
                     <li>React</li>
                     <li>AngularJS</li>

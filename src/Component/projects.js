@@ -23,7 +23,7 @@ function Projects() {
                     <div class="card">
                         <img src={tampopo} alt="Avatar" />
                         <div class="container">
-                            <h4><b>Tampopo Ramen</b></h4>
+                            <h4><strong>Tampopo Ramen</strong></h4>
                             <p>A Resturant Website based on a real business located in Washington Heights which is a neirborhood in Upper Manhattan</p>
 
                             <p>This was created with HTML,CSS,& JavaScript (<a href="https://joseamarante17.github.io/TampopoRamen/">LINK HERE</a>)</p>
@@ -33,7 +33,7 @@ function Projects() {
                     <div class="card">
                         <img src={github} alt="Avatar" />
                         <div class="container">
-                            <h4><b>Github Viewer</b></h4>
+                            <h4><strong>Github Viewer</strong></h4>
                             <p>This page allows you to browse people's GitHub profile and view the most prevelent information about them such as Name, Total Number of Repos, etc</p>
 
                             <p>This was created with HTML,CSS,& AngluarJS (<a href="https://joseamarante17.github.io/AngularJS-GithubViewer/">LINK HERE</a>) </p>
@@ -43,7 +43,7 @@ function Projects() {
                     <div class="card">
                         <img src={weather} alt="Avatar" />
                         <div class="container">
-                            <h4><b>Weather App</b></h4>
+                            <h4><strong>Weather App</strong></h4>
                             <p>This page gives you current weather info on any city that you input.</p>
 
                             <p>This was created with HTML,CSS,& AngluarJS (<a href="https://joseamarante17.github.io/WeatherApp/">LINK HERE</a>)</p>
