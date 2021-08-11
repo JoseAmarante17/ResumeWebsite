@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../Images/PictureOfMe.jpg'
+import logo from '../Images/PictureOfMe.jpeg'
 
 function AboutMe() {
 
@@ -8,7 +8,8 @@ function AboutMe() {
             <section className="leftAboutMe">
                 <h2>Hello, My name is <strong>Jose Amarante</strong></h2>
                 <h5>I am 21 year old computer enthusiast and a recent graduate of Monroe College with an Associates of Science in Computer Information Systems with honors(Cum Laude).</h5>
-                <img src={logo} alt="Jose Amarnate" title="Jose Amarante" />
+                <img sr
+                c={logo} alt="Jose Amarnate" title="Jose Amarante" />
             </section>
 
             <section className="rightAboutMe">
